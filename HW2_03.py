@@ -4,3 +4,4 @@ month = input("введите номер месяца: ")
 print(my_dict.get(month))
 month = int(month)-1
 print(my_list[month])
+
